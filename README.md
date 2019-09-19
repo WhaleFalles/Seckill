@@ -39,7 +39,7 @@ IntelliJ IDEA 2017.3.1 x64
 ## 图片演示
 登录页面
 
-![Image text](https://github.com/whalefalles/miaosha_idea/blob/master/showimgs/login.png)
+![Image text](https://github.com/whalefalles/Seckill/master/showimgs/login.png)
 
 商品列表页面
 
